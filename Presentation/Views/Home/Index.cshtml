@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Common.ViewModel.Post.PostAbsVM>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+
+<div class="row mb-2">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-6">
+            <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                <div class="col p-4 d-flex flex-column position-static">
+                    <strong class="d-inline-block mb-2 text-primary"> @Html.DisplayFor(modelItem => item.Topic.Title)</strong>
+
+                    <h3 class="mb-0">@Html.DisplayFor(modelItem => item.Title)</h3>
+                    <div class="mb-1 text-muted"> @Html.DisplayFor(modelItem => item.Author.Username)</div>
+                    <p class="card-text mb-auto">  @Html.DisplayFor(modelItem => item.ABS)</p>
+                    <a href="Home/@Html.DisplayFor(modelItem => item.ID)" class="stretched-link">ادامه</a>
+                </div>
+                <div class="col-auto d-none d-lg-block">
+                    <img class="bd-placeholder-img" width="200" height="250" role="img" aria-label="Placeholder: Thumbnail" src="@item.PicSRC">
+                </div>
+            </div>
+        </div>
+    }
+</div>

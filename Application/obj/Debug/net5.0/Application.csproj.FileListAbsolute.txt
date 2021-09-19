@@ -1,0 +1,17 @@
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\bin\Debug\net5.0\Application.deps.json
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\bin\Debug\net5.0\Application.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\bin\Debug\net5.0\ref\Application.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\bin\Debug\net5.0\Application.pdb
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\bin\Debug\net5.0\Entity.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\bin\Debug\net5.0\Entity.pdb
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\obj\Debug\net5.0\Application.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\obj\Debug\net5.0\ref\Application.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\obj\Debug\net5.0\Application.pdb
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\bin\Debug\net5.0\Common.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Application\bin\Debug\net5.0\Common.pdb

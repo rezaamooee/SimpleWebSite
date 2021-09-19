@@ -1,0 +1,15 @@
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\bin\Debug\net5.0\Entity.deps.json
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\bin\Debug\net5.0\Entity.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\bin\Debug\net5.0\ref\Entity.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\bin\Debug\net5.0\Entity.pdb
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\obj\Debug\net5.0\Entity.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\obj\Debug\net5.0\ref\Entity.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\obj\Debug\net5.0\Entity.pdb
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Entity\obj\Debug\net5.0\Entity.csprojAssemblyReference.cache

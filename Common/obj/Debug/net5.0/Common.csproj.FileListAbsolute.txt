@@ -1,0 +1,15 @@
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\bin\Debug\net5.0\Common.deps.json
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\bin\Debug\net5.0\Common.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\bin\Debug\net5.0\ref\Common.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\bin\Debug\net5.0\Common.pdb
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\obj\Debug\net5.0\Common.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\obj\Debug\net5.0\ref\Common.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\obj\Debug\net5.0\Common.pdb
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\bin\Debug\net5.0\Entity.dll
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\bin\Debug\net5.0\Entity.pdb
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+E:\UserFile\Project\WebSite\BasicalyPersonalWebsite\BasicalyPersonalWebsite\Common\obj\Debug\net5.0\Common.csproj.CopyComplete

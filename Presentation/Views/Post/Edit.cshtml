@@ -1,0 +1,96 @@
+﻿@model Common.ViewModel.Post.PostVM
+@using Common.ViewModel.Topic
+
+@{
+    List<TopicVM> Topics = ViewBag.Topics;
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>PostVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group" hidden="hidden">
+                <label asp-for="ID" class="control-label"></label>
+                <input asp-for="ID" class="form-control" />
+                <span asp-validation-for="ID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">نویسنده</label>
+                <input asp-for="Author.Username" class="form-control" />
+                <span asp-validation-for="Author.Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">سرفصل</label>
+                <select id="TopicID" name="TopicID" class="form-control">
+                    @{
+                        foreach (var item in Topics)
+                        {
+                            if (Model.TopicID == item.ID)
+                            {
+                                <option value="@item.ID" selected="selected">@item.Title</option>
+                            }
+                            else
+                            {
+                                <option value="@item.ID">@item.Title</option>
+                            }
+                            }
+                        }
+                </select>
+                <span asp-validation-for="Topic.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EngName" class="control-label"></label>
+                <input asp-for="EngName" class="form-control" />
+                <span asp-validation-for="EngName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PicSRC" class="control-label"></label>
+                <input asp-for="PicSRC" class="form-control" />
+                <span asp-validation-for="PicSRC" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ABS" class="control-label"></label>
+                <input asp-for="ABS" class="form-control" />
+                <span asp-validation-for="ABS" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+
+                <label asp-for="Content" class="control-label"></label>
+                <input asp-for="Content" class="form-control" />
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WriteDate" class="control-label"></label>
+                <label asp-for="WriteDate" class="form-control" >@Model.WriteDate.ToString("yyyy-MM-dd")</label>
+                <span asp-validation-for="WriteDate" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
